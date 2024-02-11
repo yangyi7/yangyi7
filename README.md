@@ -2,6 +2,7 @@
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently working in Beijing.
 - 📫 yangyiben11@gmail.com
+- https://www.linkedin.com/in/yangyi20/
 
 <!---
 yangyi7/yangyi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
